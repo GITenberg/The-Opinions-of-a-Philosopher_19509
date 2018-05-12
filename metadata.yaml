@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2515
     wikipedia: http://en.wikipedia.org/wiki/Robert_Grant_%28novelist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19509#The-Opinions-of-a-Philosopher
 gutenberg_issued: '2006-10-09'
 gutenberg_type: Text
 identifiers:
